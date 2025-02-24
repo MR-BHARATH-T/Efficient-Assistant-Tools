@@ -140,6 +140,6 @@ If your project uses MySQL, you need to configure the database.
 **Login URL:** `http://localhost/sms-project/login.php`
 - #### Admin Panel
   
-  - **Username:** `admin@example.com`  
-  - **Password:** `admin@sms`
+  - **Username:** `admin`  
+  - **Password:** `admin`
 
